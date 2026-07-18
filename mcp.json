@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mitosis": {
+      "type": "streamable-http",
+      "url": "https://mitosislabs.ai/api/mcp"
+    },
+    "mitosis-backups": {
+      "type": "streamable-http",
+      "url": "https://mitosislabs.ai/api/mcp/backups"
+    }
+  }
+}
